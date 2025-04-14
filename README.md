@@ -4,11 +4,11 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" width="400px" />
 
-- 🔭 I’m currently working on **Jobby app**
+- 🔭 I’m currently working on **Netflix-Gpt & Youtube**
 
 - 🌱 I’m currently learning **Reactjs, Nodejs**
 
-- 👯 I’m looking to collaborate on **Ecommerce**
+- 👯 I’m looking to collaborate on **Innovation Team**
 
 - 💬 Ask me about **Html, Css, JS, ReactJs, NodeJs, ExpressJs**
 
